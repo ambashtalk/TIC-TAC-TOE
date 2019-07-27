@@ -11,10 +11,12 @@
 Below is shown the locations represented by numbers. Enter the respective number to put your maker on the respective place
 
 ```python
+'''
  7 | 8 | 9 
 ---+---+---
  4 | 5 | 6 
 ---+---+---
  1 | 2 | 3
+'''
 ```
  
