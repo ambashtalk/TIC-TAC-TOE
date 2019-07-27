@@ -1,9 +1,9 @@
-# # # # # # # # # # #
-#    TIC-TAC-TOE    #
-# ----------------- #
-#     2 PLAYERS     #
-#  Author: Lohitya  #
-# # # # # # # # # # #
++ + + + + + + + + + + 
++    TIC-TAC-TOE    +
++ ----------------- +
++     2 PLAYERS     +
++  Author: Lohitya  +
++ + + + + + + + + + +
 
 
 >It is a 2 player game
